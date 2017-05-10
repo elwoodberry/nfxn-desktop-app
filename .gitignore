@@ -1,0 +1,10 @@
+# NFXN: GIT Ignored Files And Directories
+
+# System Files
+.DS_Store
+
+# Packages
+/node_modules
+
+# References
+references.md 
